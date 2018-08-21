@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'PT Sans', sans-serif;
+  background: black;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 i {
+  color: hotpink;
+  padding-left: 10px;
+}
+
+canvas {
+  background: black;
+  width: 100%;
+  height: 100%;
+}
